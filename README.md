@@ -3,11 +3,11 @@
 This database is designed for a Property Rental Agency (PRA) scenario where the agency facilitates the mediation between property owners and tenants across multiple cities in India. The system includes users such as owners, tenants, managers, and a superuser who is the DBA. The DBA has the authority to add, delete, and modify users, while managers can manage properties. Users can act as both owners and tenants, and properties can be residential or commercial. The database captures property rental details, including rent per month, start and end dates, yearly rent hike, agency commission, etc.
 
 ## Contributors
-- Pratik Patil
-- Himanshu Patil
-- Suyash Patil
-- Atharva Chikhale
-- Shashank S T
+- Nishit Poddar
+- Sarvesh Borole
+- Utkarsh Tiwari
+- Rohit Das
+- Vamshi Krishna
 
 ## Entity-Relationship (ER) Model
 
